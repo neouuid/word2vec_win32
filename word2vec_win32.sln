@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "word2vec", "word2vec\word2vec.vcxproj", "{D1A509AE-BC29-45BA-A3FA-428420C03BD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "word2phrase", "word2phrase\word2phrase.vcxproj", "{529D5191-09DD-43D0-B097-FCC146E4E4C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "distance", "distance\distance.vcxproj", "{650A72B5-97A1-468C-9C9F-C275EA3724AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "word-analogy", "word-analogy\word-analogy.vcxproj", "{7ADFB919-F8FB-473B-A7DD-4B50CA0320D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compute-accuracy", "compute-accuracy\compute-accuracy.vcxproj", "{4BA4560A-2D0C-4B62-AED8-FEE8A98ADDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A509AE-BC29-45BA-A3FA-428420C03BD5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1A509AE-BC29-45BA-A3FA-428420C03BD5}.Debug|Win32.Build.0 = Debug|Win32
+		{D1A509AE-BC29-45BA-A3FA-428420C03BD5}.Release|Win32.ActiveCfg = Release|Win32
+		{D1A509AE-BC29-45BA-A3FA-428420C03BD5}.Release|Win32.Build.0 = Release|Win32
+		{529D5191-09DD-43D0-B097-FCC146E4E4C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{529D5191-09DD-43D0-B097-FCC146E4E4C4}.Debug|Win32.Build.0 = Debug|Win32
+		{529D5191-09DD-43D0-B097-FCC146E4E4C4}.Release|Win32.ActiveCfg = Release|Win32
+		{529D5191-09DD-43D0-B097-FCC146E4E4C4}.Release|Win32.Build.0 = Release|Win32
+		{650A72B5-97A1-468C-9C9F-C275EA3724AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{650A72B5-97A1-468C-9C9F-C275EA3724AA}.Debug|Win32.Build.0 = Debug|Win32
+		{650A72B5-97A1-468C-9C9F-C275EA3724AA}.Release|Win32.ActiveCfg = Release|Win32
+		{650A72B5-97A1-468C-9C9F-C275EA3724AA}.Release|Win32.Build.0 = Release|Win32
+		{7ADFB919-F8FB-473B-A7DD-4B50CA0320D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7ADFB919-F8FB-473B-A7DD-4B50CA0320D2}.Debug|Win32.Build.0 = Debug|Win32
+		{7ADFB919-F8FB-473B-A7DD-4B50CA0320D2}.Release|Win32.ActiveCfg = Release|Win32
+		{7ADFB919-F8FB-473B-A7DD-4B50CA0320D2}.Release|Win32.Build.0 = Release|Win32
+		{4BA4560A-2D0C-4B62-AED8-FEE8A98ADDEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BA4560A-2D0C-4B62-AED8-FEE8A98ADDEB}.Debug|Win32.Build.0 = Debug|Win32
+		{4BA4560A-2D0C-4B62-AED8-FEE8A98ADDEB}.Release|Win32.ActiveCfg = Release|Win32
+		{4BA4560A-2D0C-4B62-AED8-FEE8A98ADDEB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
